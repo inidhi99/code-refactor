@@ -26,4 +26,4 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
-![](assets/images/01-html-css-git-homework-demo.jpeg)
+![](assets/images/homework-demo.jpeg)
