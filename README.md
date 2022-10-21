@@ -7,7 +7,7 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 
 ## The URL of the deployed application.
-https://inidhi99.github.io/buggfix-homework-1/
+https://inidhi99.github.io/code-refactor-/
 
 ## User Story
 AS A marketing agency
